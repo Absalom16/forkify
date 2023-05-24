@@ -19,5 +19,11 @@
     "fractional": "^1.0.0",
     "regenerator-runtime": "^0.13.11",
     "sass": "^1.62.1"
-  }
+  },
+  "plugins": [
+    {
+      "name": "preset-default"
+    },
+    "cleanupIDs"
+  ]
 }
